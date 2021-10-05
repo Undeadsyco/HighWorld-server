@@ -1,0 +1,22 @@
+{
+  "name": "project11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^15.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.8",
+    "nodemon": "^2.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "serve": "node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
